@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sohamray.compscengineering@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3HOBUUF](https://bit.ly/3HOBUUF)
+- 📄 Know about my experiences [https://tinyurl.com/22y3xudp](https://tinyurl.com/22y3xudp)
 
 - ⚡ Fun fact -- **I am a BookWorm by nature.**
 
