@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soham Ray</h1>
-<h3 align="center">Enthusiastic Android and Full Stack Developer from West Bengal, India</h3>
+<h3 align="center">Enthusiastic Full Stack and Android Developer from West Bengal, India</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamsohamray01" target="blank"><img src="https://img.shields.io/twitter/follow/iamsohamray01?logo=twitter&style=for-the-badge" alt="iamsohamray01" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **InterviewMate**
+- 🔭 I’m currently working on ** InterviewMitra ** 
 
 - 🌱 I’m currently learning **AI, ML and Natural Language Processing**
 
