@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soham Ray</h1>
 <h3 align="center">Enthusiastic Full Stack and Android Developer from West Bengal, India</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raysoham1022&" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raysoham1022&" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raysoham1022&label=Profile%20views&color=0e75b6&style=flat" alt="raysoham1022" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI, ML and Natural Language Processing**
 
-- 💬 Ask me about **Python, Django Framework and SQL**
+- 💬 Ask me about **Python, Django Framework, Java and SQL**
 
 - 📫 How to reach me **sohamray.compscengineering@gmail.com**
 
