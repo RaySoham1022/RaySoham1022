@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Django Framework, Java and SQL**
 
-- 📫 How to reach me **sohamray.compscengineering@gmail.com**
+- 📫 Contact me at **sohamray.compscengineering@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/22y3xudp](https://tinyurl.com/22y3xudp)
 
