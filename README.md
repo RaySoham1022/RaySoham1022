@@ -16,6 +16,8 @@
 
 - 📫 Contact me at **sohamray.compscengineering@gmail.com**
 
+- 📚 Completed 19 Internships on Variuos Domains of CSE
+
 - 📄 Know about my experiences [https://tinyurl.com/22y3xudp](https://tinyurl.com/22y3xudp)
 
 - ⚡ Fun fact -- **I am a BookWorm by nature.**
