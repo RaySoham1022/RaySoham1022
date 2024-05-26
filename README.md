@@ -18,7 +18,7 @@
 
 - 📚 Completed 19 Internships on Variuos Domains of CSE
 
-- 📄 Know about my experiences [tinyurl.com/273999jg](tinyurl.com/273999jg)
+- 📄 Know about my experiences [https://tinyurl.com/273999jg](https://tinyurl.com/273999jg)
 
 - ⚡ Fun fact -- **I am a BookWorm by nature.**
 
