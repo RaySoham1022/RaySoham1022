@@ -14,12 +14,12 @@
 
 - 💬 Ask me about **Python, Django Framework, Java and SQL**
 
-- 📫 Contact me at **sohamray.compscengineering@gmail.com**
+- 📫 Contact me at **sohamray.helpdesk@gmail.com**
 
 - 📚 Completed 19 Internships on Variuos Domains of CSE
 
 - 📄 Know about my experiences [My Portfolio](https://bit.ly/4g133FO)
-- ⚡ Fun fact -- **I am a BookWorm and a Railman.**
+- ⚡ Fun fact -- **I am a BookWorm and a Railfan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
